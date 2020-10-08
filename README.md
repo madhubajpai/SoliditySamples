@@ -1,4 +1,4 @@
-# Solidity Samples Smart Contract
+# Solidity Sample Smart Contracts
 Solidity sample smart contracts
 
 These samples have been tested with Solidity compiler version 0.7.1. 
